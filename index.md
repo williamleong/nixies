@@ -18,7 +18,7 @@ This is a collection of web resources that I found useful when building my own n
 
 [elkayem/ESP_NIXIE](https://github.com/elkayem/ESP_NIXIE) IN-14 tubes with NodeMCU/ESP8266 WiFi Manager, OLED screen configuration, 
 
-[Bradley W. Lewis/Slothfurnace](http://www.slothfurnace.com/sabers/NixieClocks_01.html)
+[Bradley W. Lewis/Slothfurnace](http://www.slothfurnace.com/sabers/NixieClocks_01.html) Various projects and kits
 
 [Nixie Clock-o-Meter](http://hacks.slashdirt.org/hw/nixiecom/) MPSA42/92 transistors for driving
 
